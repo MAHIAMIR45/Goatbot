@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '𝙓𝙮𝙣𝙣 𝘼𝙡𝙢𝙚𝙮𝙙𝙖',
+          name: 'AMIR',
           gender: '𝑴𝒂𝒍𝒆',
-          hobby: '𝙈𝙖𝙜 𝙧𝙚𝙡𝙖𝙥𝙨𝙚',
+          hobby: 'CODING',
           relationship: '𝙒𝙞𝙩𝙝 99+',
-          facebookLink: 'https://www.facebook.com/AlMeydakiAn24',
+          facebookLink: 'https://www.facebook.com/100000862816633',
           bio: '𝘿𝙤𝙣𝙩 𝙨𝙥𝙚𝙣𝙙 𝙖𝙣𝙤𝙩𝙝𝙚𝙧 𝙮𝙚𝙖𝙧 𝙙𝙤𝙞𝙣𝙜 𝙩𝙝𝙚 𝙨𝙖𝙢𝙚 𝙨𝙝𝙞𝙩'
         };
 
